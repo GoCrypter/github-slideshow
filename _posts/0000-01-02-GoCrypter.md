@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Slow but Steady wins the race"
 Use the left arrow to go back!
